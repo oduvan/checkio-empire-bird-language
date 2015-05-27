@@ -10,8 +10,3 @@ You are given an ornithological phrase as several words which are separated by w
 The bird does not know how to punctuate its phrases and only speaks words as letters.
 All words are given in lowercase.
 You should translate this phrase from the bird language to something more understandable.
-
-
-
-    
-</p>
